@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.booleanregisterutility",                              
+  "displayName": "Boolean Register Utility",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package allows to store and manipulate boolean and it history to make temporal and group condition.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_03_22_BooleanRegisterUtility.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
